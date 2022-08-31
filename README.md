@@ -1,2 +1,2 @@
-# pythonsura4
-condicionales y ciclos con python
+# ciclos y condiciones con python
+## programado por : dorian londoño
